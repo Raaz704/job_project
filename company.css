@@ -1,0 +1,249 @@
+body{
+  /* background-color: rgb(223, 235, 240); */
+  height: 900px;
+}
+
+.container-fluid{
+  /* border: 1px solid black; */
+  height: 200px;
+  background-color: rgb(223, 235, 240);
+}
+.navbar-brand{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  letter-spacing: 3px;
+  font-size: 65px;
+}
+.cont1{
+  /* border: 1px solid black; */
+  height: 80px;
+ 
+
+  margin-top: 10px;
+
+  background-color:rgb(85, 191, 233);
+}
+.nav-link{
+  font-size: 25px;
+ font-style: bold;
+ margin-left: 100px;
+  color: black;
+}
+
+#para1{
+  font-size: 24px;
+  font-family: italic;
+  margin-left: 90px;
+  position: relative;
+  bottom: 10px;
+}
+
+.d-block{
+  height: 950px;
+  width: 100%;
+}
+.form1{
+  border: 1px solid black;
+  height: 1200px;
+  width: 700px;
+  margin-top: 60px;
+  margin-left: 200px;
+  background-color: rgb(211, 237, 247);
+  box-shadow: 5px 5px 5px 5px;
+}
+.cont2{
+  border: 1px solid black;
+  height: 130px;
+  width: 600px;
+  margin-top: 100px;
+  margin-left: 50px;
+  box-shadow: 5px 5px 2px 2px;
+  background-color: white;
+}
+.img2{
+  height: 120px;
+  width: 120px;
+  position: relative;
+  bottom: 10px;
+  
+}
+.fa-light{
+  height: 50px;
+  width: 100px;
+}
+#head1{
+  position: relative;
+  bottom: 110px;
+  left: 170px;
+  font-size: 35px;
+  /* font-family: bold; */
+  font: bolder;
+}
+.para2{
+  position: relative;
+  bottom: 130px;
+  left: 170px;
+  font-size: 25px;
+}
+#head2{
+  text-align: center;
+  font-size: 55px;
+  margin-top: 20px;
+  font: bold;
+}
+#cont3{
+  /* border: 1px solid black; */
+  height: 100px;
+  width: 400px;
+  margin-left: 150px;
+  display: flex;
+  flex-direction: row;
+}
+.img3{
+  height: 130px;
+  width: 140px;
+  position: relative;
+  bottom: 10px;
+}
+#img4{
+  height: 70px;
+  width: 130px;
+  margin-top: 20px;
+}
+#img5{
+  height: 70px;
+  width: 80px;
+  margin-top: 20px; 
+  margin-left: 20px;
+}
+/* .mb-3{
+  position: relative;
+  bottom: 1180px;
+ margin-left: 930px;
+ border: 1px solid black;
+ width: 1000px;
+} */
+.form2{
+  position: relative;
+  bottom: 1200px;
+ margin-left: 912px;
+ border: 1px solid black;
+ width: 1000px;
+ height: 1200px;
+ box-shadow: 5px 5px 5px 5px;
+
+}
+#para3{
+  font-size: 25px;
+  margin-left: 10px;
+}
+.mb-3{
+  font-size: 30px;
+  margin-top: 50px;
+}
+.form-control{
+  height: 70px;
+  font-size: 25px;
+}
+.btn-primary{
+  margin-left: 430px;
+  margin-top: 40px;
+  background-color: rgb(74, 74, 239);
+  width: 160px;
+}
+.map{
+  position: relative;
+  bottom: 1170px;
+}
+footer{
+  /* border: 1px solid black; */
+  height: 600px;
+  position: relative;
+  bottom: 1100px;
+  background-color: skyblue;
+}
+#cont4{
+  /* border: 1px solid black; */
+  height: 450px;
+  width: 600px;
+  margin-top: 20px;
+  margin-left: 40px;
+  background-image: url(https://filingsolution.in/wp-content/uploads/2024/09/WhatsApp-Image-2024-10-11-at-14.43.06.jpeg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+#cont5{
+  height: 490px;
+  width: 600px;
+  /* border: 1px solid black;  */
+  margin-top: 10px;
+  margin-left: 60px;
+
+}
+.head3{
+  text-align: center;
+  font-size: 70px;
+}
+.link{
+  font-size: 30px;
+  text-decoration: none;
+  margin-top: 20px;
+}
+#cont6{
+  height: 590px;
+  width: 600px;
+  /* border: 1px solid black;  */
+  margin-top: 10px;
+  margin-left: 60px;
+
+}
+.cont7{
+  /* border: 1px solid black; */
+  height: 120px;
+  margin-top: 20px;
+}
+.img6{
+  height: 100px;
+  width: 100px;
+}
+#link2{
+  font-size: 25px;
+  text-decoration: none;
+  margin-left: 20px;
+}
+#para4{
+  font-size: 25px;
+  position: relative;
+  bottom: 70px;
+  left: 130px;
+}
+#para5{
+  font-size: 25px;
+  position: relative;
+  bottom: 85px;
+  left: 130px;
+}
+#para6{
+  font-size: 25px;
+  position: relative;
+  bottom: 90px;
+  margin-left: 800px;
+}
+.dropdown-item{
+  font-size: 25px;
+  background-color: rgb(7, 7, 32);
+
+  color: white;
+  /* margin-top: 20px; */
+  height: 80px;
+  border: 1px solid white;
+}
+.dropdown-menu{
+  height: 500px;
+  width: 300px;
+  background-color: rgb(7, 7, 32);
+
+
+}
+.trademark{
+  height: 200px;
+}

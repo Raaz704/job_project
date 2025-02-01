@@ -1,0 +1,42 @@
+@media(width<=430px){
+  .form1{
+  border: 1px solid black;
+  height: 500px;
+  width: 400px;
+  margin-top: 60px;
+  /* margin-left: 200px; */
+  background-color: rgb(211, 237, 247);
+  box-shadow: 5px 5px 5px 5px;
+  position: relative;
+  right: 200px;
+}
+.cont2{
+  height: 80px;
+  width: 250px;
+  position: relative;
+  bottom: 50px;
+  right: 10px;
+ 
+  
+}
+.form2{
+  display: none;
+}
+#head1{
+  font-size: 20px;
+  position: relative;
+  left: 75px;
+}
+.para2{
+  font-size: 15px;
+  position: relative;
+  left: 75px;
+
+}
+.map{
+  display: none;
+}
+footer{
+  display: none;
+}
+}

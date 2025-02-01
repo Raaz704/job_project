@@ -1,0 +1,148 @@
+#container1{
+  /* border: 1px solid black; */
+  height: 650px;
+  width: 1200px;
+  margin-top: 80px;
+  margin-left: 250px;
+}
+#header1{
+  font-size: 60px;
+  
+}
+#p1{
+  font-size: 28px;
+  margin-top: 20px;
+}
+#container2{
+  height: 450px;
+  width: 700px;
+  /* border: 1px solid black; */
+  margin-top: 100px;
+  background-image: url(https://tse1.mm.bing.net/th?id=OIP.M9ZazoF5Tn_E6DF8TJthyQHaEo&pid=Api&P=0&h=180);
+  background-repeat: no-repeat;
+  background-size: contain;
+  box-shadow: 5px 5px 5px 5px;
+}
+#container3{
+  /* border: 1px solid black; */
+  height: 500px;
+  display: flex;
+  flex-direction: row;
+}
+#h1{
+  font-size: 55px;
+  text-align: center;
+}
+
+#container4{
+  /* border: 1px solid black; */
+  height: 400px;
+  width: 500px;
+  margin-left: 50px;
+  margin-top: 30px;
+  box-shadow: 7px 7px 7px 7px;
+
+
+}
+#container5{
+  /* border: 1px solid black; */
+  height: 400px;
+  width: 500px;
+  margin-left: 50px;
+  margin-top: 30px;
+  box-shadow: 7px 7px 7px 7px;
+
+
+ 
+}
+#container6{
+  /* border: 1px solid black; */
+  height: 400px;
+  width: 500px;
+  margin-left: 50px;
+  margin-top: 30px;
+  box-shadow: 7px 7px 7px 7px;
+
+
+
+}
+#container7{
+  /* border: 1px solid black; */
+  height: 400px;
+  width: 500px;
+  margin-left: 50px;
+  margin-top: 30px;
+  box-shadow: 7px 7px 7px 7px;
+
+
+}
+.image1{
+  height: 450px;
+  width: 500px;
+}
+#h2{
+  font-size: 50px;
+  text-align: center;
+  margin-top: 20px;
+}
+#container8{
+  /* border: 1px solid black; */
+  height: 500px;
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+}
+
+.container9{
+  /* border: 1px solid black; */
+  height: 470px;
+  width: 550px;
+  margin-left: 10px;
+}
+.h3{
+  font-size: 55px;
+  text-align: center;
+}
+.p1{
+  font-size: 26px;
+  margin-top: 30px;
+  text-align: center;
+}
+#footer{
+  /* border: 1px solid black; */
+  height: 600px;
+  position: relative;
+  bottom: 100px;
+  background-color: skyblue;
+}
+.dropdown-item{
+  font-size: 25px;
+  background-color: rgb(7, 7, 32);
+
+  color: white;
+  /* margin-top: 20px; */
+  height: 80px;
+  border: 1px solid white;
+}
+.dropdown-menu{
+  height: 500px;
+  width: 300px;
+  background-color: rgb(7, 7, 32);
+
+
+}
+
+.trademark{
+  height: 200px;
+}
+#popup{
+  height: 60px;
+  width: 300px;
+  /* border: 1px solid black; */
+  background-color: rgb(38, 175, 130);
+  position: fixed;
+  bottom: 25px;
+  border-radius: 10px;
+  left: 1950px;
+  
+}
