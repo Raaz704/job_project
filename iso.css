@@ -1,0 +1,73 @@
+footer{
+  /* border: 1px solid black; */
+  height: 600px;
+  position: relative;
+  /* bottom: 0px; */
+  top: 40px;
+  background-color: skyblue;
+}
+#div1{
+  height: 250px;
+
+}
+h1{
+  font-size: 60px;
+  margin-top: 150px;
+  margin-left: 200px;
+}
+#cont5{
+  /* border: 1px solid black; */
+}
+.head4{
+  text-align: center;
+  font-size: 70px;
+  position: relative;
+  bottom: 100px;
+  right: 50px;
+}
+.link{
+  font-size: 30px;
+  text-decoration: none;
+  margin-top: 20px;
+  position: relative;
+  bottom: 100px;
+}
+#cont6{
+  height: 590px;
+  width: 600px;
+  /* border: 1px solid black;  */
+  margin-top: 10px;
+  margin-left: 120px;
+
+
+}
+.head3{
+  text-align: center;
+  font-size: 70px;
+  position: relative;
+  bottom: 100px;
+  right: 50px;
+}
+.cont7{
+  /* border: 1px solid black; */
+  height: 150px;
+ position: relative;
+ bottom: 100px;
+}
+.dropdown-item{
+  font-size: 25px;
+  background-color: rgb(7, 7, 32);
+  color: white;
+  /* margin-top: 20px; */
+  height: 80px;
+  border: 1px solid white;
+}
+.dropdown-menu{
+  height: 500px;
+  width: 300px;
+  background-color: rgb(7, 7, 32);
+
+}
+.trademark{
+  height: 200px;
+}
